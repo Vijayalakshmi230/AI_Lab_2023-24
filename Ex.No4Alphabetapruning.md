@@ -1,4 +1,4 @@
-![image](https://github.com/Vijayalakshmi230/AI_Lab_2023-24/assets/127175503/71ae800a-e666-45f2-9d01-0ce57f72e44c)# Ex.No: 4   Implementation of Alpha Beta Pruning 
+# Ex.No: 4   Implementation of Alpha Beta Pruning 
 ### DATE:  24-02-2024                                                                        
 ### REGISTER NUMBER : 212221040134
 ### AIM: 
