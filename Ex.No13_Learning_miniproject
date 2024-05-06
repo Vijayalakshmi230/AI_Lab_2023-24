@@ -6,7 +6,11 @@ To write a program to train the classifier for -----------------.
 ###  Algorithm:
 
 ### Program:
-
+```
+#import packages
+import numpy as np
+import pandas as pd
+```
 
 ### Output:
 
